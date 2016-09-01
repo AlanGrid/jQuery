@@ -1,0 +1,1410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"di",
+				"diamond-blue"
+			],
+			[
+				"para",
+				"parallax-background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"p",
+				"prevDot"
+			],
+			[
+				"ac",
+				"active-dot"
+			],
+			[
+				"cr",
+				"currentDot"
+			],
+			[
+				"act",
+				"active-dot"
+			],
+			[
+				"curr",
+				"currentDot"
+			],
+			[
+				"pr",
+				"prevSlide"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"nex",
+				"nextSlide"
+			],
+			[
+				"ne",
+				"nextSlide"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"cha",
+				"charactersLeft"
+			],
+			[
+				"key",
+				"keyup	.keyup()"
+			],
+			[
+				"sta",
+				"status-box"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"next",
+				"nextArticle"
+			],
+			[
+				"wh",
+				"which"
+			],
+			[
+				"ke",
+				"keypress	.keypress()"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"ch",
+				"children	.children()"
+			],
+			[
+				"btn",
+				"btn-like"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"li",
+				"like-btn"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"ligh",
+				"line-height"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"l",
+				"loop	Attr"
+			],
+			[
+				"m",
+				"muted	Attr"
+			],
+			[
+				"v",
+				"video	Tag"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"floa",
+				"float"
+			],
+			[
+				"su",
+				"submit	.submit()"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"va",
+				"val	.val()"
+			],
+			[
+				"sh",
+				"box-shadow"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"na",
+				"nav-all"
+			],
+			[
+				"glu",
+				"glyphicon-plus"
+			],
+			[
+				"g",
+				"glyphicon-plus"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"pre",
+				"prependTo	.prependTo()"
+			],
+			[
+				"en",
+				"enter"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ani",
+				"animate	.animate()"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"pane",
+				"panelId"
+			],
+			[
+				"data",
+				"data-panellid"
+			],
+			[
+				"panel",
+				"panel-button"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"w",
+				"width	.width()"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"div",
+				"first_div"
+			],
+			[
+				"th",
+				"third_c"
+			],
+			[
+				"fir",
+				"first_c"
+			],
+			[
+				"first",
+				"first_div"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"f",
+				"fadeto	.fadeTo()"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"it",
+				"itemCost"
+			],
+			[
+				"S",
+				"StaffMember"
+			],
+			[
+				"la",
+				"lastTransactionAmount"
+			],
+			[
+				"e",
+				"eggs"
+			],
+			[
+				"magazi",
+				"magazine"
+			],
+			[
+				"maga",
+				"magazine"
+			],
+			[
+				"ite",
+				"itemCost"
+			],
+			[
+				"ca",
+				"cashRegister"
+			],
+			[
+				"ha",
+				"hasOwnProperty"
+			],
+			[
+				"as",
+				"askTeller"
+			],
+			[
+				"ge",
+				"getBalance"
+			],
+			[
+				"P",
+				"Person"
+			],
+			[
+				"n",
+				"numLegs"
+			],
+			[
+				"an",
+				"Animal"
+			],
+			[
+				"me",
+				"meow"
+			],
+			[
+				"displ",
+				"displayArray"
+			],
+			[
+				"deck",
+				"deckOfCards"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"use",
+				"userChoice"
+			],
+			[
+				"numbe",
+				"numberOfAttempts"
+			],
+			[
+				"pe",
+				"pet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"s",
+				"Set Syntax: Sass"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				" h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"set syntax c++",
+				"Set Syntax: C++11"
+			],
+			[
+				"set syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"reve",
+				"Permute Lines: Reverse"
+			],
+			[
+				"set sy ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy c+",
+				"Set Syntax: C++11"
+			],
+			[
+				"set c++",
+				"Set Syntax: C++"
+			],
+			[
+				"set H",
+				"Set Syntax: HTML"
+			],
+			[
+				"se",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"stntax c++",
+				"Set Syntax: C++"
+			],
+			[
+				"set cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"rever",
+				"Permute Lines: Reverse"
+			],
+			[
+				"con",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ColorHelper",
+				"Color Helper: Index Colors in File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"Defau",
+				"Preferences: Settings - Default"
+			],
+			[
+				"log",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"boo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"syntax h",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"sublime.log_command(True)",
+			"sublime.log_commands(True)",
+			"sublime. log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sublime.commands_log(True)",
+			"sublime.log_commamds(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Games/Programing/JS/jQueryUI"
+	],
+	"file_history":
+	[
+		"/D/Games/Html/Bootstrap/rskysite/index.html",
+		"/D/Games/Html/Bootstrap/rskysite/index_button.html",
+		"/D/Games/Html/Bootstrap/rskysite/index_gliph.html",
+		"/D/Games/Html/Bootstrap/site/index.html",
+		"/C/Users/FTP-RSky/Desktop/farewellaugust",
+		"/D/Games/Programing/JS/codAcademy/SASS/5_Structure/css/draw.js",
+		"/D/Games/Programing/JS/codAcademy/SASS/5_Structure/css/main.css",
+		"/D/Games/Programing/JS/codAcademy/SASS/5_Structure/main.scss",
+		"/D/Games/Programing/JS/codAcademy/SASS/5_Structure/index.html",
+		"/C/website.github.io/index.html",
+		"/C/rsky-site/index.html",
+		"/C/Users/FTP-RSky/AppData/Local/NVIDIA/NvBackend/ApplicationOntology/data/wrappers/call_of_duty_black_ops_2_multiplayer/current_game.lua",
+		"/D/Games/Programing/JS/codAcademy/SASS/4_Organic-Press/css/main.css",
+		"/D/Games/Programing/JS/codAcademy/SASS/4_Organic-Press/css/main.scss",
+		"/D/Games/Programing/JS/codAcademy/SASS/4_Organic-Press/index.html",
+		"/D/Games/Programing/JS/codAcademy/SASS/3_function/css/main.css",
+		"/D/Games/Programing/JS/codAcademy/SASS/3_function/css/main.scss",
+		"/D/Games/Programing/JS/codAcademy/SASS/3_function/index.html",
+		"/D/Games/Programing/JS/codAcademy/SASS/2_myanmar/css/main.css",
+		"/D/Games/Programing/JS/codAcademy/SASS/2_myanmar/css/main.scss",
+		"/D/Games/Programing/JS/codAcademy/SASS/2_myanmar/index.html",
+		"/D/Games/Programing/JS/codAcademy/SASS/css/main.css",
+		"/D/Games/Programing/JS/codAcademy/SASS/index_dino.html",
+		"/D/Games/Programing/JS/codAcademy/SASS/css/sass.css",
+		"/D/Games/Programing/JS/codAcademy/15_cents_party/shows.html",
+		"/D/RSky_FTP/www/lenkovsky/lenkovsky_n/index.html",
+		"/C/rsky-site/css/main.scss",
+		"/D/Games/Programing/JS/codAcademy/20_codebrainery/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/20_codebrainery/index.html",
+		"/D/Games/Programing/JS/codAcademy/19_skyfair/css/main.css",
+		"/D/Games/Programing/JS/codAcademy/19_skyfair/index.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/index_flipboard.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/flip_board.css",
+		"/D/Games/Programing/JS/codAcademy/jQuery/js/flip_board.js",
+		"/D/Games/Programing/JS/codAcademy/18_amazing_space/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/18_amazing_space/index.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/js/status_box.js",
+		"/D/Games/Programing/JS/codAcademy/jQuery/index_status_box.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/status_box.css",
+		"/D/Games/Programing/JS/codAcademy/codAcademy_jQuery-DOM.js",
+		"/D/Games/Programing/JS/codAcademy/17_cupful-cafe/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/17_cupful-cafe/index.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/js/newsreader.js",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/newsreader.css",
+		"/D/Games/Programing/JS/codAcademy/jQuery/index_news_reader.html",
+		"/D/Games/Programing/JS/codAcademy/codAcademy_jQuery-Event.js",
+		"/D/Games/Programing/JS/codAcademy/codAcademy_jQuery-Pro-thread.js",
+		"/D/Games/Programing/JS/codAcademy/javaScript.sublime-project",
+		"/D/Games/Programing/JS/codAcademy/16_my_ocean/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/16_my_ocean/index.html",
+		"/D/Games/Programing/JS/codAcademy/temp.html",
+		"/D/Games/Programing/JS/codAcademy/15_cents_party/css/atyle.css",
+		"/D/Games/Programing/JS/codAcademy/15_cents_party/index.html",
+		"/D/Games/Programing/JS/codAcademy/14_newsroom/index.html",
+		"/D/Games/Programing/JS/codAcademy/14_newsroom/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/13_armando_pérez/index.html",
+		"/D/Games/Programing/JS/codAcademy/13_armando_pérez/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/12_bass/index.html",
+		"/D/Games/Programing/JS/codAcademy/12_bass/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/11_boltnetwork/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/11_boltnetwork/index.html",
+		"/D/Games/Programing/JS/codAcademy/10_pocketbook/index.html",
+		"/D/Games/Programing/JS/codAcademy/10_pocketbook/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/9_excursion/index.html",
+		"/D/Games/Programing/JS/codAcademy/9_excursion/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/8_headlines/index.html",
+		"/D/Games/Programing/JS/codAcademy/8_headlines/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/7_adoptly/adoptly.html",
+		"/D/Games/Programing/JS/codAcademy/7_adoptly/css/adoptly.css",
+		"/D/RSky_FTP/Grids_Type/RskyGrid_2/index.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/index_gear.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/js/gear.js",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/gear.css",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/madison.css",
+		"/D/Games/Programing/JS/codAcademy/jQuery/js/milford.js",
+		"/D/Games/Programing/JS/codAcademy/jQuery/index_milford_school.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/milford.css",
+		"/D/Games/Programing/JS/codAcademy/6_junction/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/6_junction/index.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/js/move.js",
+		"/D/Games/Programing/JS/codAcademy/jQuery/index_move.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/move.css",
+		"/D/Games/Programing/JS/codAcademy/jQuery/index_gameboard.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/gameboard.css",
+		"/D/Games/Programing/JS/codAcademy/jQuery/js/gameboard.js",
+		"/D/Games/Programing/JS/codAcademy/jQuery/js/feedster.js",
+		"/D/Games/Programing/JS/codAcademy/jQuery/index_Feedster.html",
+		"/D/Games/Programing/JS/codAcademy/jQuery/css/feedster.css",
+		"/D/Games/Programing/JS/codAcademy/5_food/index.html",
+		"/D/Games/Programing/JS/codAcademy/5_food/css/style.css",
+		"/I/Albom/Ruslan1973-2016/2016_Odessa/ru_photo-video/32_FarewellJuly/farewelljuly subtitles",
+		"/E/Albom/Ruslan1973-2016/2016_Odessa/ru_photo-video/32_FarewellJuly/farewelljuly subtitles",
+		"/C/Users/FTP-RSky/Desktop/farewelljuly subtitles",
+		"/D/Games/Programing/JS/codAcademy/5_food/farewelljuly subtitles",
+		"/D/Games/Programing/JS/codAcademy/4a_redEye/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/4a_redEye/index.html",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/js/birdman.js",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/index_birdman.html",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/css/birdman.css",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/jQuery_Tutorial/4 _DOM_Traversal/index.html",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/codAcademy_jQuery.html",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/jQuery_Tutorial/4 _DOM_Traversal/dom_trversal.js",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/index_listEasy.html",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/js/listeasy.js",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/css/listeasy.css",
+		"/D/Games/Programing/JS/codAcademy/3_shutterbugg/index.html",
+		"/D/Games/Programing/JS/codAcademy/3_shutterbugg/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/jquery.html",
+		"/D/Games/Programing/JS/codAcademy/js/codAcademy_jQuery.js",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/js/jquery-3.1.0.min.js",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/index_armando_perez.html",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/js/armando.js",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/js/forexast.js",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/index_forecast.html",
+		"/D/Games/Programing/JS/codAcademy/4_jQuery/css/forecast.css",
+		"/D/Games/Programing/JS/codAcademy/3_move/index.html",
+		"/D/Games/Programing/JS/codAcademy/3_move/css/style.css",
+		"/D/Games/Programing/JS/codAcademy/codAcademy_jQuery.js",
+		"/D/Games/Programing/JS/codAcademy/2_jQuery/codAcademy_jQuery.html",
+		"/D/Games/Programing/JS/codAcademy/2_jQuery/jquery.html",
+		"/D/Games/Programing/JS/codAcademy/2_jQuery/index.html",
+		"/D/Games/Programing/JS/codAcademy/codAcademy_jQuery.html",
+		"/D/Games/Programing/JS/codAcademy/codAcademy.css",
+		"/C/Users/FTP-RSky/AppData/Roaming/Sublime Text 3/Packages/User/docReadyFunc.sublime-snippet",
+		"/C/Users/FTP-RSky/AppData/Roaming/Sublime Text 3/Packages/User/selfFunction.sublime-snippet",
+		"/C/Users/FTP-RSky/AppData/Roaming/Sublime Text 3/Packages/User/myScript.sublime-snippet",
+		"/C/Users/FTP-RSky/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Games/Programing/JS/codAcademy/codAcademy_javascript.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"default",
+			"btn-lg",
+			"lg",
+			"xs",
+			"md",
+			"Stable",
+			"info",
+			"Risky",
+			"danger",
+			"jumbotron",
+			"alert",
+			"jumbotron",
+			"Dollar",
+			"usd",
+			"glyphicon",
+			"12",
+			"with",
+			"euro",
+			"Euro",
+			"o",
+			"succes",
+			"Col",
+			"nav",
+			"Home",
+			"jumbotron",
+			"73",
+			"100",
+			"250",
+			"350",
+			"include",
+			"background",
+			"cover",
+			"v",
+			"transform",
+			"transformation",
+			"width",
+			"height",
+			"visibility",
+			"backface-visibility",
+			"visibility",
+			"backface-visibility",
+			"transition",
+			"visibility",
+			"backface-visibility",
+			"hidden",
+			"visibility",
+			"backface-visiblity",
+			"i",
+			"transform",
+			"transformation",
+			"Container",
+			"117",
+			"115",
+			"b36",
+			"35",
+			"b35",
+			"109",
+			"107",
+			"101",
+			"102",
+			"101",
+			"100",
+			"b33",
+			"96",
+			"95",
+			"b32",
+			"93",
+			"75",
+			"15",
+			"0",
+			"18",
+			"15",
+			"b6",
+			"29",
+			"b5",
+			"b29",
+			"14",
+			"13",
+			"11",
+			"b4",
+			"6",
+			"10",
+			"9",
+			"a3",
+			"8",
+			"nina_8",
+			"6",
+			"b1",
+			"77",
+			"a2",
+			"5",
+			"4",
+			"2",
+			"1",
+			"72",
+			"71",
+			"70",
+			"68",
+			"iframe",
+			"67",
+			"b18",
+			"47",
+			"b17",
+			"46",
+			"45",
+			"44",
+			"43",
+			"16",
+			"b15",
+			"a11",
+			"42",
+			"40",
+			"14",
+			"10",
+			"39",
+			"38",
+			"png",
+			"37",
+			"10",
+			"a9",
+			"b13",
+			"a8",
+			"51",
+			"36",
+			"50",
+			"35",
+			"34",
+			"49"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"thumbnail",
+			"div",
+			"thumbnail",
+			"\"",
+			"korol",
+			"player",
+			"gift[0]",
+			"day[1]",
+			";",
+			"string",
+			"char",
+			"View",
+			"Find",
+			"Selection",
+			"Edit",
+			"File",
+			"i",
+			"nav",
+			"ABS ",
+			"abc",
+			"abs",
+			"\n'",
+			"\n		<li>Sun",
+			"	",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hsl",
+									"rgb",
+									"rgba",
+									"hex",
+									"hsla",
+									"hex_compressed",
+									"webcolors"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1472752198.81,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 301.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 275.0
+	},
+	"pinned_build_system": "Packages/Javascript/JavaScript.sublime-build",
+	"project": "ui.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"5_pokerd",
+				"CodProject\\C++CreativePractice\\6_Exercies\\5_poker\\poker\\include\\deckOfCards.h"
+			],
+			[
+				"5_poker",
+				"CodProject\\C++CreativePractice\\6_Exercies\\5_poker\\poker\\include\\card.h"
+			],
+			[
+				"5_pokermai",
+				"CodProject\\C++CreativePractice\\6_Exercies\\5_poker\\poker\\main.cpp"
+			],
+			[
+				"4_sl",
+				"CodProject\\C++CreativePractice\\6_Exercies\\4_slot_machine.cpp"
+			],
+			[
+				"tictacgamemain",
+				"Projects\\TicTacGame\\TicTacGame\\main.cpp"
+			],
+			[
+				"1_flip",
+				"CodProject\\C++CreativePractice\\6_Exercies\\1_coin_flip.cpp"
+			],
+			[
+				"5_po",
+				"CodProject\\C++CreativePractice\\6_Exercies\\5_poker.cpp"
+			],
+			[
+				"2b_p",
+				"CodProject\\C++CreativePractice\\5_Exercies\\2b_program_christmas.cpp"
+			],
+			[
+				"2c_p",
+				"CodProject\\C++CreativePractice\\5_Exercies\\2c_program_christmas.cpp"
+			],
+			[
+				"2b_pro",
+				"CodProject\\C++CreativePractice\\5_Exercies\\2b_program_christmas.cpp"
+			],
+			[
+				"2a_pr",
+				"CodProject\\C++CreativePractice\\5_Exercies\\2a_program_christmas.cpp"
+			],
+			[
+				"2_prog",
+				"CodProject\\C++CreativePractice\\5_Exercies\\2_program_christmas.cpp"
+			],
+			[
+				"2_o",
+				"CodProject\\C++StraustrupPractice\\2_operators.cpp"
+			],
+			[
+				"1_i",
+				"CodProject\\C++StraustrupPractice\\1_input_type.cpp"
+			],
+			[
+				"c++",
+				"C++Practice\\C++Practice.sln"
+			],
+			[
+				"1_me",
+				"CodProject\\C++CreativePractice\\5_Exercies\\1_menu_program_error.cpp"
+			],
+			[
+				"classma",
+				"Projects\\Class\\Class\\main.cpp"
+			],
+			[
+				"arraymma",
+				"Projects\\ArrayModulus\\ArrayModulus\\main.cpp"
+			],
+			[
+				"classesma",
+				"Projects\\Classes\\Classed\\main.cpp"
+			],
+			[
+				"arrayma",
+				"Projects\\Array\\Array\\main.cpp"
+			],
+			[
+				"3_",
+				"CodProject\\C++CreativePractice\\4_Exercies\\3__prime_numbers.cpp"
+			],
+			[
+				"myfirstgamegame",
+				"Projects\\myFirstGame\\myFirstGame\\game.cpp"
+			],
+			[
+				"game.c",
+				"Projects\\sfml\\sfml\\game.cpp"
+			],
+			[
+				"2_tr",
+				"CodProject\\C++CreativePractice\\4_Exercies\\2__trsnslate_text.cpp"
+			],
+			[
+				"1a_",
+				"CodProject\\C++CreativePractice\\4_Exercies\\1a__trsnslate_numbers.cpp"
+			],
+			[
+				"game_10mai",
+				"Projects\\Game_10\\Game_10\\main.cpp"
+			],
+			[
+				"game_10ma",
+				"Projects\\Game_10\\Game_10\\main.cpp"
+			],
+			[
+				"game_9ma",
+				"Projects\\Game_9\\Game_9\\main.cpp"
+			],
+			[
+				"2_e",
+				"CodProject\\C++CreativePractice\\4_Solutions\\2_even_odd.cpp"
+			],
+			[
+				"1_tr",
+				"CodProject\\C++CreativePractice\\4_Exercies\\1__trsnslate_numbers.cpp"
+			],
+			[
+				"4_s",
+				"CodProject\\C++CreativePractice\\4_Solutions\\4_square_numbers.cpp"
+			],
+			[
+				"7n",
+				"CodProject\\C++CreativePractice\\4_Solutions\\7_negative_numbers.cpp"
+			],
+			[
+				"2ev",
+				"CodProject\\C++CreativePractice\\4_Solutions\\2_even_odd.cpp"
+			],
+			[
+				"tes",
+				"JS\\test.js"
+			],
+			[
+				"m10",
+				"Html\\HTML5-CSS3\\html5css3\\5_Media\\10_svg_circle_grad.html"
+			],
+			[
+				"fu",
+				"CodProject\\C++CreativePractice\\5_rsky_tests\\6_function_test.cpp"
+			],
+			[
+				"he",
+				"Desktop\\hellojs.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
