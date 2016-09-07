@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-    <title>Click Events</title>
+    <title>Sortable</title>
     <link rel="stylesheet" href="css/jquery-ui.css"/>
     <script src="js/jquery.js"></script>
     <script src="js/jquery-ui.js"></script>
@@ -21,12 +21,6 @@
     </style>
     <script>
     	$(function(){
-            $('h1').click(function(event) {
-                console.log('h1 clicked');
-                var h1 = $(event.target);
-                h1.css('color', 'white')
-
-            });
             $('.sortme').sortable({
                 axis: 'y'
             });   
@@ -55,7 +49,7 @@
         <li>Item 5</li>
         <li>Item 6</li>
     </ul>
-    <h1 class="dragme ">RSkycar</h1>
+    <h1 class="dragme">RSkycar</h1>
 
     <p>
         <span class="dragme">Lorem Ipsumis</span> simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
