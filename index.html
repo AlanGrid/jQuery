@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-    <title>Resizable</title>
+    <title>Sortable</title>
     <link rel="stylesheet" href="css/jquery-ui.css"/>
     <script src="js/jquery.js"></script>
     <script src="js/jquery-ui.js"></script>
@@ -12,30 +12,47 @@
             background-color: yellow;
             overflow: hidden;
         }
+
+        .sortme {
+            list-style: none;
+        }
+
+
     </style>
     <script>
     	$(function(){
-         $('.dragme').draggable({
+            $('.sortme').sortable({
+                axis: 'y'
+            });   
+           $('.dragme').draggable({
             grid: [20, 20],
             start: function(){console.log("start drag");},
             stop: function(){console.log("stop drag");},
         });
 
-         $('p').resizable({
+           $('p').resizable({
             handles: 'n, e, s, w, ne, se, sw, nw'
         });	
 
-     });
+       });
 
     	
- </script>
+   </script>
 </head>
 <body>
-    <h1 class="dragme">RSky</h1>
-    <h1 class="dragme">Boat</h1>
+    <h1 class="dragme">Sortable</h1>
+    <ul class="sortme">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+        <li>Item 5</li>
+        <li>Item 6</li>
+    </ul>
+    <h1 class="dragme">RSkycar</h1>
 
     <p>
-    <span class="dragme">Lorem Ipsumis</span> simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        <span class="dragme">Lorem Ipsumis</span> simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     </p>
 
 </body>
