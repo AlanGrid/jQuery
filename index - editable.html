@@ -25,28 +25,7 @@
                 addParagraph('New Paragraph, 100, 100');
             });
 
-            $('#save').click(save);
-
         });
-
-        function save(){
-            var allPs = $('p');
-            console.log('allPs');
-
-            var paragraphs = [];
-            allPs.each(function(index, item){
-                var p = $(item);
-                var pos = p.position();
-                var text = p.text();
-                var pObj = {
-                    text: text,
-                    x: pos.left,
-                    y: pos.top
-                };
-                paragraphs.push(pObj);
-            });
-            console.log(paragraphs);
-        }
 
         function addParagraph(text, x, y){
             var p = $("<p contenteditable='true'>");
@@ -69,7 +48,6 @@
 <body>
     <h1>Add Elements On Click</h1>
     <button id="addParagraph">Add Paragraph</button>
-    <button id="save">Save</button>
     
 
 </body>
